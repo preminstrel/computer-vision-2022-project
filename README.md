@@ -16,4 +16,4 @@
 
 Creation of the repo
 
-Creation of the project website2
+Creation of the project website
